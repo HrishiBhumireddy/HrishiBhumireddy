@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @HrishiBhumireddy
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Developing side
-- 📫 How to reach me hrishibhumireddy@gmail.com
+Hi, I am Bhumireddy Hrishikesh Reddy, pursuing engineering at Sastra Deemed University, I am an enthusiastic learner and always ready to give my potential in programming and problem solving.
+I have hands on experience in C , C++, Python Full Stack, SQL, DataStructures.
+Always interested to work in Projects on Machine Learning, Web Development, and AI.
+I'm excited to expand my skill set and explore the vast possibilities offered by Web Development and Competitive Programming.
 
-<!---
-HrishiBhumireddy/HrishiBhumireddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning the intricacies of NodeJS, ReactJS
+
+📄 Check out my Resume
+
+📫 How to reach me hrishibhumireddy@gmail.com
